@@ -18,3 +18,5 @@ prosta komenda pip:
 pip install nazwa_modułu_który_ściągasz
 i się instaluje elegancko
 """
+
+
