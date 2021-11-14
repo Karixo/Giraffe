@@ -1,4 +1,4 @@
-class Student:
+class Student:  # 29.
 
     def __init__(self, name, major, gpa, is_on_probation):
         self.name = name
@@ -7,7 +7,7 @@ class Student:
         self.is_on_probation = is_on_probation
 
 
-class Student2:
+class Student2:  # 31.
 
     def __init__(self, name, major, gpa):
         self.name = name
@@ -20,7 +20,8 @@ class Student2:
         else:
             return False
 
-class Chef:
+
+class Chef:  # 32.
 
     def make_chicken(self):
         print("The chef makes a chicken")
