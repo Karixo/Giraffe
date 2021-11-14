@@ -14,7 +14,7 @@ class Student2:
         self.major = major
         self.gpa = gpa
 
-    def on_honor_roll(self):
+    def on_honor_roll(self):  # dodatkowa funkcja
         if self.gpa >= 3.5:
             return True
         else:
