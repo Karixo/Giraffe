@@ -23,3 +23,15 @@ def run_test(questions):
     print("You got " + str(score) + "/" + str(len(questions)) + " correct")
 
 run_test(questions)
+
+
+"""
+Pytania:
+1. Jak działa wyświetlanie pytań
+2. Czy pytania stworzone są w liście
+3. Czy questions to również lista
+4. Czemu dodajemy str(score) zamiast samo score
+5. Co robi len() i dlaczego jest w str()
+6. Co znaczy słowo prompt i jaką tu ma funkcję
+
+"""
